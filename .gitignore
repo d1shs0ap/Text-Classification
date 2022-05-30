@@ -157,3 +157,4 @@ cython_debug/
 log.txt
 **/events.out.*
 word_map.json
+kshot/
